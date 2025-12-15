@@ -26,43 +26,13 @@ Matplotlib, Seaborn
 Jupyter Notebook
 
 📊 Key Steps in the Project
-1. Data Preprocessing
+1. Data Preprocessing -:  Handled missing values,Label encoding and feature scaling, Managed class imbalance using SMOTE / Random Undersampling
 
-Handled missing values
+2. Exploratory Data Analysis -: Visualized transaction patterns, Identified correlations and anomalies, Detected outliers
 
-Label encoding and feature scaling
+3. Model Building -: Models tested : Logistic Regression,Random Forest Classifier ,Decision Tree Classifier ,XGBoost
 
-Managed class imbalance using SMOTE / Random Undersampling
-
-2. Exploratory Data Analysis
-
-Visualized transaction patterns
-
-Identified correlations and anomalies
-
-Detected outliers
-
-3. Model Building
-
-Models tested:
-
-Logistic Regression
-
-Random Forest Classifier
-
-Decision Tree Classifier
-
-XGBoost
-
-4. Model Evaluation
-
-Confusion Matrix
-
-Classification Report
-
-ROC-AUC Curve
-
-Feature Importance
+4. Model Evaluation -: Confusion Matrix ,Classification Report ,ROC-AUC Curve ,Feature Importance 
 
 🧠 Results
 
